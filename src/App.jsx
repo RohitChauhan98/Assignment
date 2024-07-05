@@ -159,7 +159,7 @@ function App() {
   const locomotiveScroll = new LocomotiveScroll();
   
   return (
-    <main className="bg-[#E7E5E4]">
+    <main className="">
       <Startup/>
       <Landing/>
       <About/>
